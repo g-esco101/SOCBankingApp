@@ -1,0 +1,12 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/MasterRoot.master" AutoEventWireup="true" CodeFile="MasterStaff1.master.cs" Inherits="MasterStaff1" %>
+
+<asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="NavBarContent">
+    <li><a href="/Staff1/Staff1">Staff I</a></li>
+    <li><a href="/Staff1/CreateAccount">Create Account</a></li>
+    <li><a href="/Staff1/DeleteAccount">Delete Account</a></li>
+    <li><a href="/Staff1/Ledger">Member Ledger</a></li>
+</asp:Content>
+<asp:Content runat="server" ID="BodyContent1" ContentPlaceHolderID="MainContent">
+    <asp:ContentPlaceHolder ID="MainContent" runat="server">
+    </asp:ContentPlaceHolder>
+</asp:Content>

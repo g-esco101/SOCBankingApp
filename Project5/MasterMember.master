@@ -1,0 +1,23 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/MasterRoot.master" AutoEventWireup="true" CodeFile="MasterMember.master.cs" Inherits="MasterMember" %>
+
+<asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="NavBarContent">
+    <li><a href="/Member/Member">Member</a></li>
+    <li><a href="/Member/Deposit">Deposit</a></li>
+    <li><a href="/Member/Withdrawal">Withdrawal</a></li>
+    <li><a href="/Member/Transfer">Transfer</a></li>
+    <li><a href="/Member/UpdatePassword">Update Password</a></li>
+</asp:Content>
+
+<asp:Content runat="server" ID="BodyContent1" ContentPlaceHolderID="MainContent">
+    <h2><%: Page.Title %></h2>
+    <asp:ContentPlaceHolder ID="MainContent" runat="server">
+    </asp:ContentPlaceHolder>
+    <div class="text-center">
+        <h4>
+            <asp:Label runat="server" ID="Nickname"></asp:Label>:
+             $<asp:Label runat="server" ID="Balance"></asp:Label>
+        </h4>
+    </div>
+    <asp:ContentPlaceHolder ID="MainContent1" runat="server">
+    </asp:ContentPlaceHolder>
+</asp:Content>
