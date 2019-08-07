@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Member Database-->
+<Members>
+  <Member>
+    <Name>Dirac</Name>
+    <Salt>ZUzCslzh6niyeYBb9wod1F8ueCpn8BiVWxAM3RUF4bM=</Salt>
+    <Password>chNwTY84COI3UvYv0tUjEzhYsJFPSLIhbOJ8ihzFom4=</Password>
+  </Member>
+  <Member>
+    <Name>Albert</Name>
+    <Salt>Z6tI1m6R1oOi8JDt28lwGXIxjOI/9krIsug2O1DD6DY=</Salt>
+    <Password>pZRImMYdwGHdWcL9/32IqzyNo0X+0dK8TQuzrEu7DFk=</Password>
+  </Member>
+  <Member>
+    <Name>Tesla</Name>
+    <Salt>gyjmsaS5ufynnwtC46/wUSu0eEU6gcA174w/OJPclhs=</Salt>
+    <Password>jYeUIA6fTkOOgShjBv+kMebwI7Zw10ZSsMaM2zbfM5U=</Password>
+  </Member>
+  <Member>
+    <Name>Higgs</Name>
+    <Salt>nufG62pD7WeHGzDEac72MFPYC3dru9IV3tIKMwiSgRQ=</Salt>
+    <Password>yaGOIOXV+019rVWUwSayCldajTYMeD9uYNQhBBCUcmc=</Password>
+  </Member>
+  <Member>
+    <Name>Hawking</Name>
+    <Salt>lcoIA3JViby8bjpYlK/4QQ4UGK4qg5FD7GOqg8g0TLA=</Salt>
+    <Password>idOeFqzCFlUXtEJShMJIUWDI70QOrNogmlwCogiR+tw=</Password>
+  </Member>
+  <Member>
+    <Name>Poisson</Name>
+    <Salt>f9cunZ+PsKzVwG3rvTD7GPRO/h7VsUQnfKtx0xuOxyM=</Salt>
+    <Password>9PKSq+vpBPkw2pICe7Fn9ssXCuhAuFzMkHINPHJvohw=</Password>
+  </Member>
+</Members>

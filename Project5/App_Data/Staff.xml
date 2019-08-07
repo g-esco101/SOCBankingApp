@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Staff Database-->
+<Staffs>
+  <Staff>
+    <Name>Alice</Name>
+    <Salt>pi4NPmkXDQjMuD139Fd3OUQwhZitTfOmGjBEzCes4U0=</Salt>
+    <Password>2YP3a6YYbCIRAoCoqYXOICSeCSQriEusdUtoCDETyGU=</Password>
+    <Role>Staff1</Role>
+  </Staff>
+  <Staff>
+    <Name>Bob</Name>
+    <Salt>qr2OyYgoE8LVkivb04RFp0/Hav/+PMMC6Ibsug2x/PU=</Salt>
+    <Password>UA9qPKNHEE+qHZ2pzKkKCnwIyRLkU441HIpJmW7DgzI=</Password>
+    <Role>Staff1</Role>
+  </Staff>
+  <Staff>
+    <Name>Julia</Name>
+    <Salt>hGNRMtkrmnz04N+D9VJJJNT/b6bpQRPdgmGl2XgX/vM=</Salt>
+    <Password>5woNP2NegdGKZxNBOEe4GTSPJm1zToH5GaL1JBoKbZI=</Password>
+    <Role>Staff1</Role>
+  </Staff>
+  <Staff>
+    <Name>John</Name>
+    <Salt>SzswjQDXz++QdRBidi4k19QsRgfa0LtsyXx3aC7XpZ4=</Salt>
+    <Password>xDXa9E1PHK/B4qYK8O3f/UEjLZZySSyAzNVo9Rhx4a8=</Password>
+    <Role>Staff2</Role>
+  </Staff>
+</Staffs>
