@@ -1,0 +1,6 @@
+C:\Users\LeonardoDaVinci\Git Repositories\Project5\myLibrary\bin\Debug\myLibrary.dll
+C:\Users\LeonardoDaVinci\Git Repositories\Project5\myLibrary\bin\Debug\myLibrary.pdb
+C:\Users\LeonardoDaVinci\Git Repositories\Project5\myLibrary\obj\Debug\myLibrary.csproj.CoreCompileInputs.cache
+C:\Users\LeonardoDaVinci\Git Repositories\Project5\myLibrary\obj\Debug\myLibrary.dll
+C:\Users\LeonardoDaVinci\Git Repositories\Project5\myLibrary\obj\Debug\myLibrary.pdb
+C:\Users\LeonardoDaVinci\Git Repositories\Project5\myLibrary\obj\Debug\myLibrary.csprojAssemblyReference.cache
